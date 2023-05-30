@@ -1,0 +1,1 @@
+# ExercicioAvaliativoProgramacaoSoftwareBasicoC_Av2.c
